@@ -21,7 +21,7 @@ body {
     overflow: hidden;
 }
 .box .image {
-    background-image: url(/images/image-qr-code.png);
+    background-image: url(/challenge-one-frontend-Mantor/images/image-qr-code.png);
     width: 196px;
     height: 196px;
     background-size: cover;
